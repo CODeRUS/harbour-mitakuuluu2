@@ -1,0 +1,11 @@
+[_presets_]
+version=0.10
+element-name=GstOMXMPEG4VideoEnc-omxmpeg4videoenc
+
+[vga]
+control-rate=1
+target-bitrate=2000000
+
+[high]
+control-rate=1
+target-bitrate=2000000

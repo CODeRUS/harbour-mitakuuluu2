@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=harbour.mitakuuluu2.client
+Exec=/usr/bin/invoker --type=silica-qt5 -s /usr/bin/harbour-mitakuuluu2
+User=nemo
